@@ -1,1 +1,1 @@
-An example project with Stripe, Solidity,
+An example project in React
