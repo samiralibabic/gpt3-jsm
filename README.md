@@ -1,1 +1,0 @@
-An example project with Stripe, Solidity,
